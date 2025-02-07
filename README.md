@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/Renangr55" title="Perfil do Renan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=blueberry&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renangr55&theme=blueberry&show_icons=true" />
 </a>
 
 ## Onde me encontrar
