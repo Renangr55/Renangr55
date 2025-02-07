@@ -1,13 +1,40 @@
-- 👋 Hi, I’m @Renangr55
-- 👀 I'm interested in developing in the programming area, learning more and more and I'm interested in the front-end and back-end...
-- 🌱 I'm currently learning markup language, back-end, programming logic, network architecture with IOT and Operating System.
-- 💞️ I try to collaborate in the area of ​​technology such as programming websites, robots and projects that come from your imagination, because everything imaginable is possible.
-- 📫 You can contact me through my social network on Instagram or WhatsApp...
-- 😄 He/Him
-- ⚡ Fun facts about me: I love playing football, going to church, reading books, going to the gym, running outdoors, taking photos and I take graphic design and English courses
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu GitHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <header>
+        <img src="https://github.com/seu-usuario.png" alt="Minha Foto">
+        <h1>Olá, eu sou [Seu Nome] 👋</h1>
+        <p>Desenvolvedor Back-End | Python | Django | HTML & CSS</p>
+        <div class="social">
+            <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a>
+        </div>
+    </header>
 
-<!---
-Renangr55/Renangr55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <section class="sobre">
+        <h2>Sobre Mim</h2>
+        <p>Sou apaixonado por tecnologia e desenvolvimento web. Atualmente, trabalho com <strong>Python, Django</strong> e estou aprimorando minhas habilidades em **back-end**.</p>
+    </section>
+
+    <section class="projetos">
+        <h2>Projetos</h2>
+        <ul>
+            <li><a href="https://github.com/seu-usuario/projeto1" target="_blank">🔗 Projeto 1</a></li>
+            <li><a href="https://github.com/seu-usuario/projeto2" target="_blank">🔗 Projeto 2</a></li>
+            <li><a href="https://github.com/seu-usuario/projeto3" target="_blank">🔗 Projeto 3</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Feito com ❤️ por [Seu Nome] - 2025</p>
+    </footer>
+
+</body>
+</html>
