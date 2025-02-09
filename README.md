@@ -49,7 +49,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-gabriel-rodrigues-b386b2320/)](https://www.linkedin.com/in/renan-gabriel-rodrigues-b386b2320/)
 [![Gmail Badge](https://img.shields.io/badge/-renan.g.rodrigues5@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:/-renan.g.rodrigues5@gmail.com)](mailto:)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
