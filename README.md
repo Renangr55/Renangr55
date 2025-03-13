@@ -44,7 +44,7 @@
 
 <summary align="center"><h2> Profile Statistics </h2></summary>
   <div align="center">
-     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
-     <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true" />
+     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Renangr55&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
+     <img height="192px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Renangr55&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true" />
 
 
