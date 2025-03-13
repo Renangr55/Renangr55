@@ -12,6 +12,8 @@
 <div id="badges" align="left">
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</a>
 </div>
 <br>
 </details>  
@@ -21,7 +23,7 @@
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /></a>    
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
     <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
@@ -33,6 +35,10 @@
 <summary align="left"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Others Tools </h2></summary>
 <div align="left">
     <p></p> 
+    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img alt="Photoshop" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
+    <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"><img alt="Premiere Pro" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /></a>
+    <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank">
+    <img alt="After Effects" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
     <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
