@@ -1,13 +1,9 @@
-
-<details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am an apprentice system developer  <img src="./Image/cat-coder.gif" width="30px"> </p>
-    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+<p align="center"> I am an apprentice system developer  <img src="./Image/cat-coder.gif" width="30px"> </p>
+<h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
   
 <br>
-</details>
-<details open>
-<summary align="left"><h2> Frond-End </h2></summary>
+
+<summary align="left"><h2>🎨 Frond-End </h2></summary>
 <div id="badges" align="left">
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
@@ -15,9 +11,9 @@
 </a>
 </div>
 <br>
-</details>  
-<details open>
-    <summary align="left"><h2> Back-end </h2></summary>
+ 
+
+<summary align="left"><h2>⚫ Back-end </h2></summary>
 <div align="left">
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
@@ -28,9 +24,8 @@
 
        
 </div>
-</details>
-<details>
-<summary align="left"><h2> Others Tools </h2></summary>
+
+<summary align="left"><h2>💥 Others Tools </h2></summary>
 <div align="left">
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt="IntelliJ IDEA" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
@@ -44,9 +39,9 @@
     <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
     
 </div>
-</details>
 
-<details open>
+
+
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
