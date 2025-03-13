@@ -35,9 +35,9 @@
 <summary align="left"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Others Tools </h2></summary>
 <div align="left">
     <p></p> 
-    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img alt="Photoshop" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
-    <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"><img alt="Premiere Pro" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /></a>
-    <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank">
+    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img alt="Photoshop" height="42px" src="URL_DO_ICONE_DO_PHOTOSHOP" /></a>
+    <a href="https://www.adobe.com/br/products/premiere.html" target="_blank"><img alt="Premiere Pro" height="42px" src="URL_DO_ICONE_DO_PREMIERE" /></a>
+    <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank"><img alt="After Effects" height="42px" src="URL_DO_ICONE_DO_AFTER_EFFECTS" /></a>
     <img alt="After Effects" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
