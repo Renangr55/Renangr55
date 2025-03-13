@@ -32,16 +32,16 @@
 <details>
 <summary align="left"><h2> Others Tools </h2></summary>
 <div align="left">
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-    <a href="https://github.com/" target="_blank"><img alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-    <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
-    <a href="https://www.blender.org/" target="_blank"> <img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
-    <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-    <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt="IntelliJ IDEA" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://github.com/" target="_blank"><img alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://www.arduino.cc/" target="_blank"><img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://www.blender.org/" target="_blank"><img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
+    <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="background-color:#ddd; padding:10px; border-radius:10px;"/></a>
     
 </div>
 </details>
