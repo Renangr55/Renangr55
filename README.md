@@ -23,7 +23,7 @@
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original-wordmark.svg" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 
