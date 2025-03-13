@@ -23,9 +23,8 @@
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /></a>    
+    <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" height="42px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 
        
@@ -34,17 +33,12 @@
 <details>
 <summary align="left"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Others Tools </h2></summary>
 <div align="left">
-    <p></p> 
-    <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" style="margin-right: 10px; text-decoration: none;"><img alt="Photoshop" height="42px"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="border-radius: 8px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-
-<a href="https://www.adobe.com/br/products/premiere.html" target="_blank" style="margin-right: 10px; text-decoration: none;"><img alt="Premiere Pro" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="border-radius: 8px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-
-<a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank" style="text-decoration: none;"><img alt="After Effects" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" style="border-radius: 8px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
     <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
     <a href="https://www.blender.org/" target="_blank"> <img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
     <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
     <br>
     <p></p>
