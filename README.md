@@ -31,7 +31,7 @@
 </details>
 <details>
 <summary align="left"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px"> Others Tools </h2></summary>
-<div align="center">
+<div align="left">
     <p></p> 
     <a href="https://www.raspberrypi.com/" target="_blank"><img alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
