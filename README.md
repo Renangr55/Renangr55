@@ -1,4 +1,4 @@
-<p align="center"> Hello! My name is Renan. I currently hold the position of an apprentice in systems development through the SENAI Roberto Mange technical school at the company Robert Bosch. I am studying English and graphic design, with knowledge in the Adobe suite, Python, Blender, Java, and more.  <img src="./Image/cat-coder.gif" width="30px"> </p>
+<p align="left"> Hello! My name is Renan. I currently hold the position of an apprentice in systems development through the SENAI Roberto Mange technical school at the company Robert Bosch. I am studying English and graphic design, with knowledge in the Adobe suite, Python, Blender, Java, and more.  <img src="./Image/cat-coder.gif" width="30px"> </p>
 
 <summary align="left"><h2>🎨 Frond-End </h2></summary>
 <div id="badges" align="left">
